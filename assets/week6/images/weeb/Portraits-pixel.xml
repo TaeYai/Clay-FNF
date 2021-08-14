@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Portraits-pixel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="senpai instance 10000" x="0" y="0" width="249" height="145"/>
+	<SubTexture name="senpaiangry instance 10000" x="259" y="0" width="249" height="145"/>
+	<SubTexture name="spirit instance 10000" x="0" y="155" width="249" height="145"/>
+	<SubTexture name="bf instance 10000" x="259" y="155" width="249" height="145"/>
+</TextureAtlas>
